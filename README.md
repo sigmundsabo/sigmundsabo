@@ -25,7 +25,7 @@ The card game Pablo, written in Python with pygame. My first real Python project
 
 ## Now
 
-- Learning Python (CS50P) and Git
+- Learning Python and Git
 - Building Calyze
 
 <br>
